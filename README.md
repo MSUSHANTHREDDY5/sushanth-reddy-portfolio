@@ -4,7 +4,6 @@
 
 ## 🌐 Portfolio
 
-**Live:** Coming soon
 
 The portfolio showcases my projects, technical skills, achievements, education, coding profiles, and an interactive AI-powered portfolio assistant.
 
